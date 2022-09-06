@@ -4,8 +4,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](www.strawbeari.com)
-[![website](./img/globe-dark.svg)](www.strawbeari.com)
+[![website](./img/globe-light.svg)](https://www.strawbeari.com)
+[![website](./img/globe-dark.svg)](https://www.strawbeari.com)
 [![website](./img/youtube-light.svg)]()
 [![website](./img/youtube-dark.svg)]()
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ucrallisonchu/)

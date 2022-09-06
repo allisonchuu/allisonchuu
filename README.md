@@ -8,8 +8,8 @@
 [![website](./img/globe-dark.svg)](www.strawbeari.com)
 [![website](./img/youtube-light.svg)]()
 [![website](./img/youtube-dark.svg)]()
-[![website](./img/linkedin-light.svg)]()
-[![website](./img/linkedin-dark.svg)]()
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ucrallisonchu/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ucrallisonchu/)
 
 ## I'm a student!!
 

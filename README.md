@@ -7,6 +7,13 @@
 - 🌱 I’m currently learning everything!
 - 🥅 2022 Goals: Learn more about web development.
 - ⚡ Fun fact: I love sushi.
+
+## :zap: github stats
+
+<img align="left" alt="allisonchuu's GitHub Stats" width="475px" src="https://github-readme-stats.vercel.app/api?username=allisonchuu&theme=default&show_icons=true&hide_border=true&count_private=true" />
+
+<img align="left" alt="allisonchuu's GitHub Stats 2" width="475px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allisonchuu&theme=default&show_icons=true&hide_border=true&layout=compact" />
+
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](www.strawbeari.com)
@@ -35,13 +42,6 @@
 <br />
 
 ---
-## :zap: github stats
-
-<img align="left" alt="allisonchuu's GitHub Stats" width="475px" src="https://github-readme-stats.vercel.app/api?username=allisonchuu&theme=default&show_icons=true&hide_border=true&count_private=true" />
-
-<img align="left" alt="allisonchuu's GitHub Stats 2" width="475px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allisonchuu&theme=default&show_icons=true&hide_border=true&layout=compact" />
-
-
 <!--[website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr

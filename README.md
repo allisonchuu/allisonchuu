@@ -14,6 +14,8 @@
 
 <img align="left" alt="allisonchuu's GitHub Stats 2" width="475px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allisonchuu&theme=default&show_icons=true&hide_border=true&layout=compact" />
 
+<br />
+
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](www.strawbeari.com)

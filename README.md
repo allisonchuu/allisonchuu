@@ -2,18 +2,6 @@
 
 # welcome to my github!
 
-## :zap: github stats
-
-<img align="left" alt="allisonchuu's GitHub Stats" width="450px" src="https://github-readme-stats.vercel.app/api?username=allisonchuu&theme=default&show_icons=true&hide_border=true&count_private=true" />
-
-<img align="left" alt="allisonchuu's GitHub Stats 2" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allisonchuu&theme=default&show_icons=true&hide_border=true&layout=compact" />
-
-## I'm a student!!
-
-- 🌱 I’m currently learning everything!
-- 🥅 2022 Goals: Learn more about web development.
-- ⚡ Fun fact: I love sushi.
-
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](www.strawbeari.com)
@@ -23,6 +11,17 @@
 [![website](./img/linkedin-light.svg)]()
 [![website](./img/linkedin-dark.svg)]()
 
+## I'm a student!!
+
+- 🌱 I’m currently learning everything!
+- 🥅 2022 Goals: Learn more about web development.
+- ⚡ Fun fact: I love sushi.
+
+## :zap: github stats
+
+<img align="left" alt="allisonchuu's GitHub Stats" width="450px" src="https://github-readme-stats.vercel.app/api?username=allisonchuu&theme=default&show_icons=true&hide_border=true&count_private=true" />
+
+<img align="left" alt="allisonchuu's GitHub Stats 2" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allisonchuu&theme=default&show_icons=true&hide_border=true&layout=compact" />
 
 <!--### Languages and Tools:
 

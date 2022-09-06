@@ -37,11 +37,11 @@
 ---
 ## :zap: github stats
 
-<img align="left" alt="allisonchuu's GitHub Stats" width="250px" src="https://github-readme-stats.vercel.app/api?username=allisonchuu&theme=default&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="allisonchuu's GitHub Stats" width="350px" src="https://github-readme-stats.vercel.app/api?username=allisonchuu&theme=default&show_icons=true&hide_border=true&count_private=true" />
 
-<img align="left" alt="allisonchuu's GitHub Stats 2" width="250px" src="https://github-readme-streak-stats.herokuapp.com/?user=allisonchuu&theme=default&hide_border=true" />
+<img align="left" alt="allisonchuu's GitHub Stats 2" width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=allisonchuu&theme=default&hide_border=true" />
 
-<img align="left" alt="allisonchuu's GitHub Stats 3" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allisonchuu&theme=default&show_icons=true&hide_border=true&layout=compact" />
+<img align="left" alt="allisonchuu's GitHub Stats 3" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allisonchuu&theme=default&show_icons=true&hide_border=true&layout=compact" />
 
 
 <!--[website]: https://codeSTACKr.com

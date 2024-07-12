@@ -14,7 +14,7 @@
 ## I'm a student!!
 
 - 🌱 I’m currently learning everything!
-- 🥅 2022 Goals: Learn more about web development.
+- 🥅 2024 Goals: Polish my personal website and start a new project.
 - ⚡ Fun fact: I love sushi.
 
 ## :zap: github stats

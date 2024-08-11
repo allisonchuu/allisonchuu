@@ -19,9 +19,13 @@
 
 ## :zap: github stats
 
-<img align="left" alt="allisonchuu's GitHub Stats" width="450px" src="https://github-readme-stats.vercel.app/api?username=allisonchuu&theme=default&show_icons=true&hide_border=true&count_private=true" />
-
+<!--<img align="left" alt="allisonchuu's GitHub Stats" width="450px" src="https://github-readme-stats.vercel.app/api?username=allisonchuu&theme=default&show_icons=true&hide_border=true&count_private=true" />
 <img align="left" alt="allisonchuu's GitHub Stats 2" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allisonchuu&theme=default&show_icons=true&hide_border=true&layout=compact" />
+
+-->
+![allisonchuu's Stats](https://github-readme-stats.vercel.app/api?username=allisonchuu&theme=buefy&show_icons=true&hide_border=false&count_private=true)
+![allisonchuu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=allisonchuu&theme=buefy&hide_border=false)
+![allisonchuu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allisonchuu&theme=buefy&show_icons=true&hide_border=false&layout=compact)
 
 <!--### Languages and Tools:
 
